@@ -1,4 +1,6 @@
-﻿// Tipos de variables en C#:
+﻿//ohansel beltre 2025-1877
+
+// Tipos de variables en C#:
 int num = 10;
 double decimalNum = 987654321.123456789;
 float floatNum = 156.1295f;
