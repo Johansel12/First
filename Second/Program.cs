@@ -1,8 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-int a = 0;
-int b = 0;
+﻿//Johansel Beltre 2025-1877
 
-Console.WriteLine("Escribe un numero");
-Console.ReadLine(a);       
+Console.WriteLine("Klk Veamos si el numero es par o impar")  ;
+Console.WriteLine("Ingrese un numero: ");
+int number = int.Parse(Console.ReadLine());
 
-
+if ( number % 2 == 0)
+{
+    Console.WriteLine("El numero es par");
+}
+else
+{
+    Console.WriteLine("El numero es impar");
+}
